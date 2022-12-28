@@ -1,0 +1,4 @@
+#Wed Nov 30 11:57:33 SAST 2022
+expression=directory path
+org.eclipse.help.ui.localSearch.master=true
+__DEFAULT__=false
